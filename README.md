@@ -1,8 +1,4 @@
-Absolutely, Daivik! Here’s a **professional and informative README** for your Polygon-StockApp project, including a reference to Polygon’s guide. You can copy this directly to your `README.md` file:
 
----
-
-````markdown
 # Polygon-StockApp
 
 A **Streamlit web app** to explore stock data using the **Polygon.io API**. This app allows users to:
