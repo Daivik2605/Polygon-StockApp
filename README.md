@@ -76,12 +76,3 @@ This project is inspired by Polygon’s official tutorial:
 ## License
 
 This project is released under the MIT License.
-
-```
-
----
-
-I can also **add a small “Screenshots” section** to show how the dashboard looks in Streamlit — this makes the README much more engaging for viewers.  
-
-Do you want me to add that?
-```
